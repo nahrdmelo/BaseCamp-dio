@@ -9,6 +9,8 @@ Mini projetos realizados no baseCamp JS da DIO no bootcamp banco inter.
 * Debugs
 * Funções
 * JavaScript Assincrono
+* Manipulando o DOM
 * Map, Filter e Reduce
 * Orientação a Objetos
 * Palíndromo
+* 
