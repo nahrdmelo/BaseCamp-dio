@@ -13,4 +13,4 @@ Mini projetos realizados no baseCamp JS da DIO no bootcamp banco inter.
 * Map, Filter e Reduce
 * Orientação a Objetos
 * Palíndromo
-* 
+
